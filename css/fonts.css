@@ -1,18 +1,19 @@
-@font-face {	
-	font-family: GenBkBasB;
-	src: url(..//fonts/GenBkBasB.ttf);
-}
-@font-face {
-	font-family: YesevaOne-Regular_v2;
-	src: url(..//fonts/YesevaOne-Regular_v2.otf);
+@font-face { 
+    font-family: GenBkBasB;
+    src: url(..//fonts/GenBkBasB.ttf);
 }
 
 @font-face {
-	font-family: Lato-Regular;
-	src: url(..//fonts/Lato-Regular.ttf);
+    font-family: YesevaOne-Regular_v2;
+    src: url(..//fonts/YesevaOne-Regular_v2.otf);
 }
 
 @font-face {
-	font-family: OpenSans-Regular;
-	src: url(..//fonts/OpenSans-Regular.ttf);
+    font-family: Lato-Regular;
+    src: url(..//fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url(..//fonts/OpenSans-Regular.ttf);
 }
